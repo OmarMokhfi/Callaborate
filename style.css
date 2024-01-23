@@ -18,3 +18,12 @@ button {
   background-color: black;
   color: white;
 }
+
+ul {
+  list-style: none;
+}
+
+ul * {
+  float: left;
+  margin-left: 12px;
+}
